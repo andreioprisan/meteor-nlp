@@ -4,7 +4,7 @@
   "homepage": "https://github.com/andreioprisan/meteor-nlp",
   "author": "Andrei Oprisan <andrei@oprisan.com>",
   "version": "0.1.21",
-  "git": "git@github.com:andreioprisan/meteor-nlp.git",
+  "git": "https://github.com/andreioprisan/meteor-nlp.git",
   "packages": {
   }
 }
