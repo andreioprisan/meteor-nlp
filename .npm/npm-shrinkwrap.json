@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "zlib": {
+      "version": "1.0.5"
+    },
+    "natural": {
+      "version": "0.1.21",
+      "dependencies": {
+        "sylvester": {
+          "version": "0.0.21"
+        },
+        "apparatus": {
+          "version": "0.0.7"
+        },
+        "underscore": {
+          "version": "1.4.4"
+        }
+      }
+    },
+    "WNdb": {
+      "version": "3.0.1",
+      "dependencies": {
+        "tar": {
+          "version": "0.1.17",
+          "dependencies": {
+            "inherits": {
+              "version": "1.0.0"
+            },
+            "block-stream": {
+              "version": "0.0.6"
+            },
+            "fstream": {
+              "version": "0.1.22",
+              "dependencies": {
+                "rimraf": {
+                  "version": "2.1.4"
+                },
+                "mkdirp": {
+                  "version": "0.3.5"
+                },
+                "graceful-fs": {
+                  "version": "1.2.1"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
