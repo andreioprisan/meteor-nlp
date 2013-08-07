@@ -1,6 +1,6 @@
 {
   "name": "nlp",
-  "description": "NLP for Meteor",
+  "description": "Natural Language Processing module via Natural for Meteor",
   "homepage": "https://github.com/andreioprisan/meteor-nlp",
   "author": "Andrei Oprisan <andrei@oprisan.com>",
   "version": "0.1.21",
